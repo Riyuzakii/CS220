@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/mnt/Data/Dropbox/CS220A_Labs/LAB7B/impact.xsl
+OUTFILE=/mnt/Data/Dropbox/CS220A_Labs/LAB7B/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/mnt/Data/Dropbox/CS220A_Labs/LAB7B
+LICENSE=iMPACT
+USER_INFO=iMPACT
